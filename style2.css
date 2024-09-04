@@ -8,14 +8,13 @@
     background-image: url(shr.jpg);
 }
 .header{
-    height: 30%;
     display: flex;
     align-items: center;
     overflow: hidden;
     position: relative;;
 }
 .logo{
-    width: 150px;
+    width: 75px;
     cursor: pointer;
 }
 
@@ -40,7 +39,7 @@
 
 .content{
     text-align: center;
-    margin-top: 0%;
+    margin-top: 5cm;
 }
 .content h1{
     font-size: 80px;
@@ -48,4 +47,3 @@
     font-family: serif;
     
 }
-
